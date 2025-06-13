@@ -23,7 +23,7 @@ const config = {
   url: 'https://sash0333.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/Sash0333/Action-learning',
+  baseUrl: '/Sash0333/Action-learning/my-website/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
